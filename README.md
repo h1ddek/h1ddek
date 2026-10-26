@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Olá,%20eu%20sou%20o%20hiddek!&fontSize=50&animation=fadeIn&fontAlignY=38&desc=UX/UI Designer" />
-</div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Olá,%20eu%20sou%20o%hiddek!&fontSize=50&animation=fadeIn&fontAlignY=38&desc=UX/UI %20Designer %20|%20Analista%20de%20&%20Projetos%20descAlignY=55&descAlign=62" />
 
 <div align="center">
   <p><em>Transformando linhas de código em mecânicas divertidas e arte em mundos imersivos.</em></p>
