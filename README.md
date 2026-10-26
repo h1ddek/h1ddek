@@ -1,53 +1,110 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Olá,%20eu%20sou%20o%20Matheus!&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20de%20Software%20|%20Designer%20UI/UX%20&%20Arte%20Digital&descAlignY=55&descAlign=62" />
-</div>
+```md
+<!-- ✦ PROFILE HEADER ✦ -->
 
 <div align="center">
-  <p><em>Transformando linhas de código em mecânicas divertidas e arte em mundos imersivos.</em></p>
+
+# ✦ Olá, eu sou Matheus! ✦
+
+### UX/UI Design · Tecnologia · Música
+
+Criatividade, tecnologia e experiências digitais em constante evolução.
+
+[LinkedIn](SEU_LINKEDIN_AQUI) · [Portfólio](SEU_PORTFOLIO_AQUI) · [GitHub](https://github.com/SEU_USUARIO)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:00C9FF,100:92FE9D&height=140&section=header" width="100%" alt="Banner abstrato em gradiente"/>
+
 </div>
 
 ---
 
-## 👾 Sobre Mim
+## ✦ Sobre mim
 
-* 🚀 Sou um desenvolvedor de software com grande paixão pelo mundo do desenvolvimento de jogos e arte digital.
-* 🕹️ Atualmente, estou focando minhas energias na criação e desenvolvimento do meu jogo, **Duno & Luno**.
-* 🎨 Adoro explorar a interseção entre lógica de programação e direção de arte, criando experiências que sejam tanto funcionais quanto visualmente cativantes.
-* 💡 Sempre em busca de aprender novas ferramentas, aprimorar meu game design e evoluir minhas habilidades de ilustração e animação.
+Sou um profissional interessado na interseção entre design,
+tecnologia e criatividade.
 
-## 🛠️ Habilidades e Ferramentas
+- 🎨 UX/UI Design e experiências digitais
+- 💻 Tecnologia, web e soluções criativas
+- 🚀 Projetos pessoais e novas ideias
+- 🎸 Música, guitarra e Red Hot Chili Peppers
+
+Acredito que boas experiências surgem quando design,
+funcionalidade e personalidade trabalham juntos.
+
+---
+
+## ✦ Ferramentas & tecnologias
+
+<!-- Mantenha apenas as ferramentas que você utiliza. -->
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Figma-Design-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/Adobe_XD-Design-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white" alt="Adobe XD"/>
+  <img src="https://img.shields.io/badge/WordPress-CMS-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/>
+  <img src="https://img.shields.io/badge/HTML5-Web-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+</p>
+
+---
+
+## ✦ Projetos em destaque
+
+### 🎮 Duno & Luno
+
+Um conceito original de jogo 3D estilizado, com exploração,
+narrativa e dois personagens que possuem habilidades complementares.
+
+- 🌙 Alternância entre personagens
+- ☀️ Poderes ligados à luz e à escuridão
+- 🌌 Um mundo misterioso para explorar
+
+[Explorar projeto](LINK_DO_REPOSITORIO_DUNO_LUNO)
+
+### 💡 Outros projetos
+
+Espaço para compartilhar experimentos de design, interfaces,
+estudos de tecnologia e projetos pessoais.
+
+[Ver meus repositórios](https://github.com/SEU_USUARIO?tab=repositories)
+
+---
+
+## ✦ GitHub em números
 
 <div align="center">
-  <!-- Adicione ou remova as badges conforme as engines e programas que você utiliza -->
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white" />
-  <img src="https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E" />
-  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Estatísticas do GitHub"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais utilizadas"/>
+
 </div>
 
-## 🌟 Projeto em Destaque
+---
 
-### 🦊 Duno & Luno
-Meu atual projeto principal em desenvolvimento. 
-- **Status:** Em desenvolvimento ativo
-- **Atuação:** Game Design, Programação e Arte Digital
-- *Fique à vontade para conferir os repositórios públicos relacionados aos sistemas que estou construindo para ele!*
+## ✦ Fora do código
 
-## 📫 Como me encontrar
+Design e tecnologia são parte da minha rotina.
+A música é outra forma de expressão.
 
 <div align="center">
-  <a href="mailto:seuemail@exemplo.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN_AQUI">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/SEU_INSTAGRAM_AQUI">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://SEU_PORTFOLIO.com">
-    <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=mac-os&logoColor=white" />
-  </a>
+
+<a href="https://www.redhotchilipeppers.com/">
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Red_Hot_Chili_Peppers_logo.svg" width="115" alt="Logotipo do Red Hot Chili Peppers"/>
+</a>
+
+### Red Hot Chili Peppers 🎸
+
+Guitarra, grooves, criatividade e inspiração musical.
+
+[Conheça a banda](https://www.redhotchilipeppers.com/)
+
 </div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:00C9FF,100:92FE9D&height=100&section=footer" width="100%" alt="Rodapé abstrato em gradiente"/>
+
+*“Design the experience. Build the idea. Play the music.”*
+
+</div>
+```
